@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Elias-717
-- 👀 I’m interested in the app development industry
-- 🌱 I’m currently learning python & kotlin
-- 💞️ I’m looking to collaborate on making android apps
+- 👀 I’m interested in the app development industry.
+- 🌱 I’m currently learning python & kotlin.
+- 💞️ I’m looking to collaborate on making android apps.
 - 📫 How to reach me: through my telegram username: eliassumairi or my email by adding "@gmail.com" to my username.
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him.
 - ⚡ Fun fact: my first python print string was "Hello Elias" not "Hello world".
 
 <!---
