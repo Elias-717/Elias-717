@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on making android apps.
 - 📫 How to reach me: through my telegram username: eliassumairi or my email by adding "@gmail.com" to my username.
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: my first python print string was "Hello Elias" not "Hello world".
+- ⚡ Fun fact: my first python string print was "Hello Elias"
 
 <!---
 Elias-717/Elias-717 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
